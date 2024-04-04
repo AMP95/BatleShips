@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Учеба\C++\Экзамен\BattleShip\main.cpp(1698,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Учеба\C++\Экзамен\BattleShip\main.cpp(1700,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учеба\C++\Экзамен\BattleShip\main.cpp(1124): warning C4715: compIntellectShot: значение возвращается не при всех путях выполнения
+  BattleShip.vcxproj -> D:\Учеба\C++\Экзамен\BattleShip\x64\Debug\BattleShip.exe
